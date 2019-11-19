@@ -1,2 +1,2 @@
 # Zendriix
-this branch is for Zendrix software solutions
+commit to develop branch  once the feature is complete
